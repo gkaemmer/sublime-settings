@@ -1,0 +1,9 @@
+[
+  { "keys": ["super+shift+o"], "command": "goto_window" },
+  { "keys": ["super+shift+r"], "command": "reveal_in_side_bar" },
+  { "keys": ["super+shift+b"], "command": "js_prettier" },
+  { "keys": ["super+shift+i"], "command": "import_js", "args": { "command": "fix" } },
+  { "keys": ["super+shift+n"], "command": "side_bar_move" },
+  { "keys": ["super+n"], "command": "side_bar_new_file" },
+  { "keys": ["super+shift+alt+n"], "command": "new_file" }
+]

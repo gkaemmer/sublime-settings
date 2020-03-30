@@ -1,0 +1,5 @@
+{
+  "prettier_cli_path": "/Users/graham/.config/yarn/global/node_modules/.bin/prettier",
+  "auto_format_on_save": true,
+  "auto_format_on_save_excludes": ["*.md", "/Users/graham/projects/repos/**/*.js"]
+}

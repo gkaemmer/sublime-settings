@@ -1,0 +1,26 @@
+<snippet>
+  <content><![CDATA[
+// ------ Constants ------
+
+const DEFAULT_STATE = {}
+
+export default function reducer(state = DEFAULT_STATE, action) {
+  switch (action.type) {
+
+  }
+  return state
+}
+
+// ------ Actions ------
+
+
+
+// ------ Selectors ------
+
+
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>reducer</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

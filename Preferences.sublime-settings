@@ -1,0 +1,84 @@
+{
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"*.dds",
+		"*.eot",
+		"*.gif",
+		"*.ico",
+		"*.jar",
+		"*.jpeg",
+		"*.jpg",
+		"*.pdf",
+		"*.png",
+		"*.swf",
+		"*.tga",
+		"*.ttf",
+		"*.zip",
+		".next/**",
+		"/Users/graham/projects/dcron/deps/**",
+		"/Users/graham/projects/experiments/voronoi-rs/target/**",
+		"/Users/graham/projects/hillstreetlabs/erasure-daily/dist/**",
+		"/Users/graham/projects/hillstreetlabs/ethsf/dist/**",
+		"/Users/graham/projects/hillstreetlabs/kimono/cli/dist/**",
+		"/Users/graham/projects/hillstreetlabs/parr/dist/**",
+		"/Users/graham/projects/hillstreetlabs/relayer/api/deps/**",
+		"/Users/graham/projects/hillstreetlabs/veil-api/dist/**",
+		"/Users/graham/projects/hillstreetlabs/veil-web-clean/build/**",
+		"/Users/graham/projects/hillstreetlabs/veil-web/build/**",
+		"/Users/graham/projects/hillstreetlabs/veil-web/dist/**",
+		"/Users/graham/projects/hillstreetlabs/veil-web/webpack-report.html",
+		"/Users/graham/projects/p.g/augur-node/build-proto/**",
+		"/Users/graham/projects/p.g/augur-node/build/**",
+		"/Users/graham/projects/p.g/augur-node/coverage/**",
+		"/Users/graham/projects/p.g/predictions.global/build/**",
+		"/Users/graham/projects/patient_bank/admin/public/production/**",
+		"/Users/graham/projects/patient_bank/admin/shared/assets/vendor/**",
+		"/Users/graham/projects/patient_bank/admin/vendor/**",
+		"/Users/graham/projects/patient_bank/core/.docker-sync/**",
+		"/Users/graham/projects/patient_bank/patient/log/**",
+		"/Users/graham/projects/patient_bank/patient/shared/assets/vendor/**",
+		"/Users/graham/projects/patient_bank/patient/vendor/**",
+		"/Users/graham/projects/patient_bank/pb-patient/node_modules/**",
+		"/Users/graham/projects/patient_bank/public/vendor/**",
+		"/Users/graham/projects/sophie/.cache/**",
+		"_build/**",
+		"log/**",
+		"node_modules/**",
+		"prototype4/_build/**",
+		"tmp/**",
+		"yarn-error.log"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/User/pisco-sour (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules",
+		".next"
+	],
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"indent_to_bracket": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80,
+		120
+	],
+	"scroll_past_end": true,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"typescript_tsdk": "/Users/graham/.config/yarn/global/node_modules/typescript/lib"
+}

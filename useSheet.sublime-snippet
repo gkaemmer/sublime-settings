@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+import { useSheet } from '${1:pb-shared}/styles'
+
+const styles = {
+
+}
+
+@useSheet(styles)
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>useSheet</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.js</scope>
+</snippet>

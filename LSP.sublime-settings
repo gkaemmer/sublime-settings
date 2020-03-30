@@ -1,0 +1,46 @@
+{
+	"auto_show_diagnostics_panel": false,
+	"clients":
+	{
+		"js":
+		{
+			"command":
+			[
+				"lsp-tsserver"
+			],
+			"enabled": true,
+			"languageId": "javascript",
+			"scopes":
+			[
+				"source.js"
+			],
+			"syntaxes":
+			[
+				"Packages/JavaScript/JavaScript.sublime-syntax"
+			]
+		},
+		"jsts":
+		{
+			"command":
+			[
+				"lsp-tsserver"
+			],
+			"enabled": true,
+			"languageId": "typescript",
+			"scopes":
+			[
+				"source.ts",
+				"source.tsx"
+			],
+			"syntaxes":
+			[
+				"Packages/TypeScript-TmLanguage/TypeScript.tmLanguage",
+				"Packages/TypeScript-TmLanguage/TypeScriptReact.tmLanguage"
+			]
+		},
+		"rls":
+		{
+			"enabled": true
+		}
+	}
+}
